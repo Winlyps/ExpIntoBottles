@@ -1,0 +1,9 @@
+name: ExpIntoBottles
+version: '1.0-SNAPSHOT'
+main: winlyps.expIntoBottles.ExpIntoBottles
+api-version: '1.20'
+authors: [ Winlyps ]
+commands:
+  expintobottles:
+    description: Converts player's experience levels into experience bottles.
+    usage: /expintobottles
